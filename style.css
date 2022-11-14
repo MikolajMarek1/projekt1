@@ -1,0 +1,112 @@
+h1 {
+    background-color: yellow;
+    padding: 1rem;
+  }
+  h3 {
+    margin: 85px 0 0 0;
+  }
+  
+  .section {
+    background-color: lightyellow;
+    padding: 30px;
+  }
+  .powrot_link {
+    font-size: 20px;
+    background-color: yellow;
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+  }
+  .menu_link {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    box-shadow: 1px 1px 7px grey;
+    transition: 0.2s;
+  }
+  
+  .menu_link:hover {
+    color: lightyellow;
+    background-color: darkorange;
+    border-radius: 170px;
+    /* border-top-left-radius: 155px;
+    border-bottom-right-radius: 855px; */
+    box-shadow: 3px 3px 15px lightyellow;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  
+  table {
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: orange;
+    border-style: collapse;
+  }
+  
+  tr:hover {
+    color: lightyellow;
+    background-color: darkorange;
+    border-radius: 170px;
+    /* border-top-left-radius: 155px;
+    border-bottom-right-radius: 855px; */
+    box-shadow: 3px 3px 15px lightyellow;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    padding: 4px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:hover {
+    box-shadow: 3px 3px 15px lightyellow;
+    padding-bottom: 200px;
+    padding-top: 200px;
+  }
+  
+  table tr td:hover {
+    color: rgb(105, 77, 24);
+    background-color: white;
+  }
+  
+  table tr:hover {
+    cursor: pointer;
+  }
+  tr:nth-child(odd) {
+    background-color: yellow;
+  }
+  
+  table tr:nth-child(odd) td:hover {
+    background-color: yellow;
+  }
+  
+  table tr:nth-child(even) td:hover {
+    background-color: darkorange;
+  }
+  
+  /*
+  .menu_kontakt {
+    background-color: pink;
+  } */
+  
+  /* .menu {
+    background-color: lightgrey;
+    height: 540px;
+    text-align: center;
+    padding: 25px;
+  } */
+  
